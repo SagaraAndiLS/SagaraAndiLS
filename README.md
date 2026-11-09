@@ -26,7 +26,7 @@
 
 Saya lulusan **S1 Sains Data** yang berfokus pada **Digital Business Intelligence**. Saya bekerja dengan satu prinsip: **angka baru berguna kalau bisa mengubah keputusan**.
 
-Karena itu, setiap analisis saya tidak berhenti di grafik. Menggabungkan Power BI, Python, dan sertifikasi Excel Expert, saya mencari pertanyaan bisnisnya, membedah variansi operasional & bottleneck, serta memvalidasi ketat angka agar metrik di dashboard tidak menyesatkan, lalu menutupnya dengan rekomendasi yang bisa ditindaklanjuti.   
+Karena itu, setiap analisis saya tidak berhenti di grafik. Menggabungkan Power BI, Python, dan sertifikasi Excel Expert, saya mencari pertanyaan bisnisnya, membedah variansi operasional & bottleneck, serta memvalidasi ketat angka agar metrik di dashboard tidak salah, lalu selesai dengan rekomendasi yang bisa ditindaklanjuti.   
 
 - 🎓 **Pendidikan:** Universitas Koperasi Indonesia — Sains Data
 - 📍  **Lokasi:** Indonesia
