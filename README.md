@@ -20,6 +20,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
+<img src="https://raw.githubusercontent.com/powxenv/powxenv/output/snake.svg" alt="Snake animation" />
+
 ## 👋 Tentang Saya
 
 Saya lulusan **S1 Sains Data** yang berfokus pada **Digital Business Intelligence**. Saya bekerja dengan satu prinsip: **angka baru berguna kalau bisa mengubah keputusan**.
